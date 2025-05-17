@@ -1,7 +1,20 @@
-## Hi there 👋
+<h1>Hi, I'm Aryan! </h1>
+
+<h2> Certification </h2>
+
+- [Google Technical Support Fundamentals](https://coursera.org/share/f85fea3638aa67e827081d9a77ad7952)
+
+
+<h2>👨‍💻 Projects:</h2>
+ 
+
+<h2>📺 Popular YouTube Videos</h2>
+
+<h2> 🤳 Connect with me:</h2>
+
 
 <!--
-**Aryan0679/Aryan0679** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
