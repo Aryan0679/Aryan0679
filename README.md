@@ -13,9 +13,9 @@
 
  
 
-<h2>📺 Popular YouTube Videos</h2>
-
 <h2> 🤳 Connect with me:</h2>
+
+[LinkedIn](https://www.linkedin.com/in/aryan-alam-a78232361/)
 
 
 <!--
