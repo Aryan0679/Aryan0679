@@ -1,6 +1,6 @@
 <h1>Hi, I'm Aryan! </h1>
 
-[Proffesional Statement](https://github.com/Aryan0679/Project1/blob/main/README.md)
+[Professional Statement](https://github.com/Aryan0679/Project1/blob/main/README.md)
 
 <h2> Certification </h2>
 
