@@ -11,7 +11,7 @@
 
 [Conducting Security Audit](https://github.com/Aryan0679/Conducting-Security-Audit)
 
-[Network Attack Analysis](https://github.com/Aryan0679/Network-Attack-Analysis)
+[SYN Flood Detection](https://github.com/Aryan0679/Network-Attack-Analysis)
 
  
 
