@@ -7,15 +7,13 @@
 - [Google Technical Support Fundamentals](https://coursera.org/share/f85fea3638aa67e827081d9a77ad7952)
 
 
-<h2>👨‍💻 Projects:</h2>
+## 👨‍💻 Projects
 
-[Conducting Security Audit](https://github.com/Aryan0679/Conducting-Security-Audit)
+- [🔍 Conducting Security Audit](https://github.com/Aryan0679/Conducting-Security-Audit)  
+- [🌐 SYN Flood Detection](https://github.com/Aryan0679/Network-Attack-Analysis)  
+- [📊 Tcpdump Analysis](https://github.com/Aryan0679/Tcpdump-Analysis)  
+- [🛡️ Incident Response using NIST CSF](https://github.com/Aryan0679/Incident-Response-NIST-CSF)
 
-[SYN Flood Detection](https://github.com/Aryan0679/Network-Attack-Analysis)
-
-[Tcpdump Analysis](https://github.com/Aryan0679/Tcpdump-Analysis)
-
-[Incident Response using NIST CSF](https://github.com/Aryan0679/Incident-Response-NIST-CSF)
 
  
 
