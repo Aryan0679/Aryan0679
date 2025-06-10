@@ -6,14 +6,17 @@
 
 ## 👨‍💻 Projects
 
+- [📘 Incident Handlers Journal](https://github.com/Aryan0679/Incident-Handlers-Journal)  
+- [🐍 Python Updating File](https://github.com/Aryan0679/Python-Updating-File)
+
+## 🧩 Mini Projects
+
 - [🔍 Conducting Security Audit](https://github.com/Aryan0679/Conducting-Security-Audit)  
 - [🌐 SYN Flood Detection](https://github.com/Aryan0679/Network-Attack-Analysis)  
 - [📊 Tcpdump Analysis](https://github.com/Aryan0679/Tcpdump-Analysis)  
 - [🛡️ Incident Response using NIST CSF](https://github.com/Aryan0679/Incident-Response-NIST-CSF)  
 - [📁 Linux File Management](https://github.com/Aryan0679/Linux-File-Management)  
-- [🗂️ Filtering using SQL](https://github.com/Aryan0679/Filtering-using-SQL)  
-- [📘 Incident Handlers Journal](https://github.com/Aryan0679/Incident-Handlers-Journal)  
-- [🐍 Python Updating File](https://github.com/Aryan0679/Python-Updating-File)
+- [🗂️ Filtering using SQL](https://github.com/Aryan0679/Filtering-using-SQL)
 
 ## 🤳 Connect with me
 
