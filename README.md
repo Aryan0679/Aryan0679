@@ -12,9 +12,9 @@
 - [🛡️ Incident Response using NIST CSF](https://github.com/Aryan0679/Incident-Response-NIST-CSF)  
 - [📁 Linux File Management](https://github.com/Aryan0679/Linux-File-Management)  
 - [🗂️ Filtering using SQL](https://github.com/Aryan0679/Filtering-using-SQL)  
-- [📘 Incident Handlers Journal](https://github.com/Aryan0679/Incident-Handlers-Journal)
+- [📘 Incident Handlers Journal](https://github.com/Aryan0679/Incident-Handlers-Journal)  
+- [🐍 Python Updating File](https://github.com/Aryan0679/Python-Updating-File)
 
 ## 🤳 Connect with me
 
 - [LinkedIn](https://www.linkedin.com/in/aryan-alam-a78232361/)
-
