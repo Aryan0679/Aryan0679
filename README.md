@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Aryan!
 
 ## 📜 Certification
-
+- [Google Cybersecurity Professional](https://www.credly.com/earner/earned/share/a0f16600-45ff-4dc3-b1d7-ca84668474ab)
 - [Google Technical Support Fundamentals](https://coursera.org/share/f85fea3638aa67e827081d9a77ad7952)
+  
 
 ## 👨‍💻 Projects
 
