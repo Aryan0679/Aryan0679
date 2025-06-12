@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Aryan!
 
 ## 📜 Certification
-- [Google Cybersecurity Professional](https://www.credly.com/earner/earned/badge/a0f16600-45ff-4dc3-b1d7-ca84668474ab)
+- [![My Certification Badge](https://images.credly.com/size/680x680/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png)](https://www.credly.com/badges/a0f16600-45ff-4dc3-b1d7-ca84668474ab/public_url)
+
 - [Google Technical Support Fundamentals](https://coursera.org/share/f85fea3638aa67e827081d9a77ad7952)
   
 
