@@ -24,4 +24,4 @@
 
 ## 🤳 Connect with me
 
-- [LinkedIn](https://www.linkedin.com/in/aryan-alam-a78232361/)
+- [LinkedIn](www.linkedin.com/in/aryan0697)
