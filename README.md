@@ -24,4 +24,5 @@
 
 ## 🤳 Connect with me
 
-- [LinkedIn](www.linkedin.com/in/aryan0697)
+- [LinkedIn](https://www.linkedin.com/in/aryan0697)
+
