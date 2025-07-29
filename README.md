@@ -2,7 +2,7 @@
 
 ## 📜 Certification
 
-- [CompTIA Security+](https://www.credly.com/badges/0fcbcc09-4cab-478f-9a37-7c609b875251)
+- [CompTIA Network+](https://www.credly.com/badges/0fcbcc09-4cab-478f-9a37-7c609b875251)
 - [CompTIA Security+](https://www.credly.com/badges/5d1cdb3d-de62-49aa-840d-7bc51325aac0/public_url)
 - [Google Cybersecurity Professional Certificate](https://www.credly.com/badges/a0f16600-45ff-4dc3-b1d7-ca84668474ab/public_url)
 - [Google Technical Support Fundamentals](https://coursera.org/share/f85fea3638aa67e827081d9a77ad7952)
