@@ -11,7 +11,7 @@
 ## 👨‍💻 Projects
 
 - [📘 Incident Handlers Journal](https://github.com/Aryan0679/Incident-Handlers-Journal)  
-- [🐍 Python Updating File](https://github.com/Aryan0679/Python-Updating-File)
+
 
 ## 🧩 Mini Projects
 
@@ -21,6 +21,7 @@
 - [🛡️ Incident Response using NIST CSF](https://github.com/Aryan0679/Incident-Response-NIST-CSF)  
 - [📁 Linux File Management](https://github.com/Aryan0679/Linux-File-Management)  
 - [🗂️ Filtering using SQL](https://github.com/Aryan0679/Filtering-using-SQL)
+- [🐍 Python Updating File](https://github.com/Aryan0679/Python-Updating-File)
 
 ## 🤳 Connect with me
 
