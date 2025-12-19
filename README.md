@@ -10,7 +10,8 @@
 
 ## 👨‍💻 Projects
 
-- [📘 Incident Handlers Journal](https://github.com/Aryan0679/Incident-Handlers-Journal)  
+- [📘 Incident Handlers Journal](https://github.com/Aryan0679/Incident-Handlers-Journal)
+- [Azure SOC LAB](https://github.com/Aryan0679/Azure-SOC-Lab)
 
 
 ## 🧩 Mini Projects
